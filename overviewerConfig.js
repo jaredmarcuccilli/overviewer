@@ -103,7 +103,7 @@ var overviewerConfig = {
             "zoomLevels": 9,
             "defaultZoom": 1,
             "maxZoom": 9,
-            "path": "SuperlativeCraft",
+            "path": "https://r2.ryacom.org/sc/",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "SuperlativeCraft",
